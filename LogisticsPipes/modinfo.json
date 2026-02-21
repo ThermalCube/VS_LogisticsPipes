@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "logisticspipes",
+  "name": "LogisticsPipes",
+  "authors": [
+    "ThermalCube"
+  ],
+  "description": "LogisticsPipes is a mod for Vintage Story that adds structured item logistics and transport mechanics.",
+  "version": "0.1.0",
+  "dependencies": {
+    "game": "1.21.6"
+  }
+}
